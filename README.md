@@ -1,0 +1,1 @@
+### inportant js concept and implementation and some nots
